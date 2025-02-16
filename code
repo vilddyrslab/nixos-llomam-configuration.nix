@@ -1,0 +1,13 @@
+code I uses not work 
+
+configuration,nix
+
+services.ollama = {
+  enable = true;
+  #package = pkgs.unstable.ollama;
+  acceleration = "rocm"; # Or "cuda"
+  #};
+};
+
+not work for me
+
