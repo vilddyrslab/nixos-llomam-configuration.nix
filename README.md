@@ -1,11 +1,3 @@
 # nixos-llomam-configuration.nix
 
-services.ollama = {
-  enable = true;
-  #package = pkgs.unstable.ollama;
-  acceleration = "rocm"; # Or "cuda"
-  #};
-};
-
-not work for me
-
+me nixos and ollama is not worknig
