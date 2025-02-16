@@ -7,3 +7,5 @@ services.ollama = {
   #};
 };
 
+not work for me
+
